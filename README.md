@@ -28,6 +28,10 @@ http://dotinstall.com/
 - Androidプログラミングバイブル SDK5/4対応  
 http://goo.gl/TAL0K0
 
+**mixiが行っているAndroid アプリ開発の基礎知識と実務スキルを身に付けるトレーニングコースです。**
+- Android Development Training Course Repository  
+https://github.com/mixi-inc/AndroidTraining
+
 ### ◆ Androidアプリのサンプルコードについて知りたい。
 **Android勉強会のメンバーが作成したサンプルコードです。**  
 作成次第、随時更新していきます。
