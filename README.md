@@ -19,6 +19,10 @@ https://github.com/ncxx-sl-lab/SampleQuestion
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
+Androidに関係なく多くのプログラミング学習を動画でサポートしてくれます。
+- ドットインストール  
+http://dotinstall.com/
+
 ### ◆ Androidアプリのサンプルコードについて知りたい。
 Android勉強会のメンバーが作成したサンプルコードです。  
 作成次第、随時更新していきます。
