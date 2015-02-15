@@ -36,7 +36,8 @@ https://github.com/ncxx-sl-lab/github-cheat-sheet/blob/master/README.ja.md
 
 
 ### ◆ ncxx-sl-labのメンバーに入りたい。
-ncxx-sl-labが作成された経緯について下記のスライドが参考になります。
+まずはncxx-sl-labが作成された経緯について下記のスライドをご覧ください。  
+ざっと見るだけで構いません。
 - 「GitHubでチーム開発の実践！！」  
 http://goo.gl/D37QmJ
 - 「Git, GitHubのチュートリアル」  
