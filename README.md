@@ -31,7 +31,7 @@ ncxx-sl-labが作成された経緯について下記のスライドが参考に
 - 「GitHubでチーム開発の実践！！」  
 http://goo.gl/D37QmJ  
 - 「Git, GitHubのチュートリアル」  
-http://goo.gl/RJ43oC  
+http://goo.gl/RJ43oC
 - 「GitHubで社内学習環境を作る！！」  
 http://goo.gl/8yYLxz
 
