@@ -19,7 +19,7 @@ https://github.com/ncxx-sl-lab/SampleQuestion
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
-**Androidだけでなく、多くのプログラミング学習を動画でサポートしてくれます。**
+**３分ほどの短い動画でプログラミング学習をサポートしてくれるサイトです**
 - ドットインストール  
 http://dotinstall.com/
 
