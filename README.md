@@ -10,7 +10,7 @@
 
 JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 
-### ◆ 一人一アプリ開発のサンプルコードについて知りたい。
+### ◆ 1人1アプリ開発のサンプルコードについて知りたい。
 - SampleQuestionのソースコード  
 https://github.com/ncxx-sl-lab/SampleQuestion
 
