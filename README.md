@@ -11,6 +11,7 @@ https://github.com/ncxx-sl-lab/SampleQuestion
 
 ### ◆ Androidアプリのサンプルコードについて知りたい。
 Android勉強会のメンバーが作成したサンプルコードです。
+作成次第、随時更新していきます。
 - 01_HelloWorld  
 https://github.com/miyake-yasunaga/01_Hello
 - 02_Button  
