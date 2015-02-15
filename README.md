@@ -15,7 +15,7 @@ JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 https://github.com/ncxx-sl-lab/SampleQuestion
 
 ### ◆ Android開発の参考資料について知りたい。
-Qiitaにまとめてストックしてあります。
+いくつかの資料はQiitaにまとめてストックしてあります。
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
