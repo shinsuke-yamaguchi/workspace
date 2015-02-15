@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/ncxx-sl-lab/workspace](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ncxx-sl-lab/workspace?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**ncxx-sl-labは社内のプログラミング学習をサポートするために作成されました。**
+**ncxx-sl-labは社員のプログラミング学習をサポートするために作成されました。**
 
 目的別に項目を分けてあるので、対象の項目からリンクに飛んで活用してください。
 
