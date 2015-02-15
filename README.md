@@ -1,9 +1,22 @@
 workspace
 =========
 
-チーム開発の実践に向けて作成
+**ncxx-sl-labについて説明します。**
 
-## workspaceについて
+**目的別に項目を分けてあるので、対象の項目からリンクに飛んで活用してください。**
 
-- まずは [GitHubでチーム開発の実践！！ーより良い社内環境を目指してー](https://speakerdeck.com/masashi_sutou/githubdetimukai-fa-falseshi-jian-yoriliang-ishe-nei-huan-jing-womu-zhi-site) を参照してください。  
-- 次に [members/README.md](https://github.com/ncxx-sl-lab/members) を参照してください。
+## Git, GitHubについて知りたい。
+
+- Git,GitHubのチュートリアルはこちら  
+https://github.com/ncxx-sl-lab/git-tutorial
+
+
+
+## Android勉強会メンバーに入りたい
+- まずは下記のスライドを「GitHubでチーム開発の実践！！」を参照してください。  
+http://goo.gl/D37QmJ  
+http://goo.gl/RJ43oC  
+http://goo.gl/8yYLxz
+
+- 次にmembers/README.mdで自己紹介してください。  
+https://github.com/ncxx-sl-lab/members
