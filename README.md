@@ -23,7 +23,7 @@ https://qiita.com/masashi-windows/stock
 - ドットインストール  
 http://dotinstall.com/
 
-**最新のAndroid Studoで開発手法を解説しているオススメ書籍です。**
+**最新のAndroid Studioで開発手法を解説しているオススメ書籍です。**
 
 - Androidプログラミングバイブル SDK5/4対応  
 http://goo.gl/TAL0K0
