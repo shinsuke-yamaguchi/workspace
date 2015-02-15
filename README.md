@@ -29,11 +29,10 @@ https://github.com/ncxx-sl-lab/git-tutorial
 ### ncxx-sl-labのメンバーに入りたい。
 ncxx-sl-labが作成された経緯について下記のスライドが参考になります。
 - 「GitHubでチーム開発の実践！！」  
-http://goo.gl/D37QmJ  
+http://goo.gl/D37QmJ
 - 「Git, GitHubのチュートリアル」  
 http://goo.gl/RJ43oC
 - 「GitHubで社内学習環境を作る！！」  
 http://goo.gl/8yYLxz
-
 - 次にmembers/README.mdで自己紹介してください。  
 https://github.com/ncxx-sl-lab/members
