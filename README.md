@@ -35,7 +35,7 @@ http://goo.gl/RJ43oC
 - 「GitHubで社内学習環境を作る！！」  
 http://goo.gl/8yYLxz
 
-次にGitとGitHubに慣れるために自己紹介をmembersにpushしてみてください。
+次にGitとGitHubに慣れるために自己紹介.mdをmembersにpushしてみてください。
 
-- 次にmembers/README.mdで自己紹介してください。  
+- members/README.mdを参考にして自己紹介してください。  
 https://github.com/ncxx-sl-lab/members
