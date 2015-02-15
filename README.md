@@ -15,21 +15,21 @@ JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 https://github.com/ncxx-sl-lab/SampleQuestion
 
 ### ◆ Android開発の参考資料について知りたい。
-いくつかの資料はQiitaにまとめてストックしてあります。
+**いくつかの資料はQiitaにまとめてストックしてあります。**
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
-Androidに関係なく多くのプログラミング学習を動画でサポートしてくれます。
+**Androidに関係なく多くのプログラミング学習を動画でサポートしてくれます。**
 - ドットインストール  
 http://dotinstall.com/
 
-最新のAndroid Studoで開発手法を解説しているオススメ書籍です。
+**最新のAndroid Studoで開発手法を解説しているオススメ書籍です。**
 
 - Androidプログラミングバイブル SDK5/4対応  
 http://goo.gl/TAL0K0
 
 ### ◆ Androidアプリのサンプルコードについて知りたい。
-Android勉強会のメンバーが作成したサンプルコードです。  
+**Android勉強会のメンバーが作成したサンプルコードです。**  
 作成次第、随時更新していきます。
 - 01_HelloWorld  
 https://github.com/miyake-yasunaga/01_Hello
@@ -47,9 +47,14 @@ https://github.com/ncxx-sl-lab/git-tutorial
 - GitHubの小ネタや便利な使い方が紹介されているチートシートです。  
 https://github.com/ncxx-sl-lab/github-cheat-sheet/blob/master/README.ja.md
 
+**Android StudioとGitの連携方法については下記のサイトを参考にしてください。**
+
+- Android StudioでGitバージョン管理  
+http://temakishiki.com/?p=237
+
 
 ### ◆ ncxx-sl-labのメンバーに入りたい。
-まずはncxx-sl-labが作成された経緯について下記のスライドをご覧ください。  
+**まずはncxx-sl-labが作成された経緯について下記のスライドをご覧ください。**  
 ざっと見るだけで構いません。
 - 「GitHubでチーム開発の実践！！」  
 http://goo.gl/D37QmJ
@@ -58,7 +63,7 @@ http://goo.gl/RJ43oC
 - 「GitHubで社内学習環境を作る！！」  
 http://goo.gl/8yYLxz
 
-次にGitとGitHubに慣れるために自己紹介.mdをmembersにpushしてみてください。
+**次にGitとGitHubに慣れるために自己紹介.mdをmembersにpushしてみてください。**
 
 - members/README.mdを参考にして自己紹介してください。  
 https://github.com/ncxx-sl-lab/members
