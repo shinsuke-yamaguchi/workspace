@@ -22,7 +22,7 @@ https://github.com/miyake-yasunaga/04_Image
 
 
 ### Git, GitHubの使い方について知りたい。
-- Git,GitHubのチュートリアルは下記のリポジトリのwikiを参照してください。  
+- Gitのインストールや、GitHubの使い方は下記のリポジトリのwikiを参照してください。  
 https://github.com/ncxx-sl-lab/git-tutorial
 - GitHubの小ネタや便利な使い方が紹介されているチートシートです。  
 https://github.com/ncxx-sl-lab/github-cheat-sheet/blob/master/README.ja.md
