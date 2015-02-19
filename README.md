@@ -19,10 +19,18 @@ https://github.com/ncxx-sl-lab/SampleQuestion
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
-**最新のAndroid Studioで開発手法を解説しているオススメ書籍です。**
+**最新のAndroid Studioで解説しながら、豊富なサンプルを紹介しているオススメ書籍です。**
 
 - Androidプログラミングバイブル SDK5/4対応  
 http://goo.gl/TAL0K0
+
+**Androidの開発でちょっと困った時に頼りになるTips集です。**
+
+- Effective Android   
+http://goo.gl/EaXahY  
+
+- Androidアプリ開発逆引きレシピ  
+http://goo.gl/xqT2HE  
 
 **mixiが行っているAndroid アプリ開発の基礎知識と実務スキルを身に付けるトレーニングコースです。**
 - Android Development Training Course Repository  
