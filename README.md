@@ -19,10 +19,6 @@ https://github.com/ncxx-sl-lab/SampleQuestion
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
-**３分ほどの短い動画でプログラミング学習をサポートしてくれるサイトです**
-- ドットインストール  
-http://dotinstall.com/
-
 **最新のAndroid Studioで開発手法を解説しているオススメ書籍です。**
 
 - Androidプログラミングバイブル SDK5/4対応  
