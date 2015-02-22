@@ -19,7 +19,7 @@ https://github.com/ncxx-sl-lab/SampleQuestion/tree/pre
 
 ### ◆ 開発の参考資料について知りたい。
 
-**いくつかの資料はQiitaにまとめてストックしてあります。**
+**Androidの開発で役に立つ記事はQiitaにまとめてストックしてあります（随時更新中）。**
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
 
