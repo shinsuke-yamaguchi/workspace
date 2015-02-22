@@ -15,6 +15,7 @@ JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 https://github.com/ncxx-sl-lab/SampleQuestion
 
 ### ◆ 開発の参考資料について知りたい。
+
 **いくつかの資料はQiitaにまとめてストックしてあります。**
 - Qiitaのストック  
 https://qiita.com/masashi-windows/stock
@@ -35,6 +36,10 @@ http://goo.gl/xqT2HE
 **mixiが行っているAndroid アプリ開発の基礎知識と実務スキルを身に付けるトレーニングコースです。**
 - Android Development Training Course Repository  
 https://github.com/mixi-inc/AndroidTraining
+
+**公式のリファレンスです。英語ですが、必ず一度は見ておいてください。**
+- Android Developers   
+http://developer.android.com/develop/index.html
 
 ### ◆ Androidアプリのサンプルコードについて知りたい。
 **Android勉強会のメンバーが作成したサンプルコードです。**  
