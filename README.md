@@ -14,6 +14,9 @@ JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 - SampleQuestionのソースコード  
 https://github.com/ncxx-sl-lab/SampleQuestion
 
+- SampleQuestionの改良版ソースコード  
+https://github.com/ncxx-sl-lab/SampleQuestion/tree/pre  
+
 ### ◆ 開発の参考資料について知りたい。
 
 **いくつかの資料はQiitaにまとめてストックしてあります。**
