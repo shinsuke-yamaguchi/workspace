@@ -24,12 +24,10 @@ https://github.com/ncxx-sl-lab/SampleQuestion/tree/pre
 https://qiita.com/masashi-windows/stock
 
 **最新のAndroid Studioで解説しながら、豊富なサンプルを紹介しているオススメ書籍です。**
-
 - Androidプログラミングバイブル SDK5/4対応  
 http://goo.gl/TAL0K0
 
 **Androidの開発でちょっと困った時に頼りになるTips集です。**
-
 - Effective Android   
 http://goo.gl/EaXahY  
 
@@ -43,6 +41,10 @@ https://github.com/mixi-inc/AndroidTraining
 **公式のリファレンスです。英語ですが、必ず一度は見ておいてください。**
 - Android Developers   
 http://developer.android.com/develop/index.html
+
+**リファレンスの翻訳サイト。最新の情報ではないので注意が必要です。**
+- ソフトウェア技術ドキュメントを勝手に翻訳  
+https://sites.google.com/a/techdoctranslator.com/jp/android
 
 ### ◆ Androidアプリのサンプルコードについて知りたい。
 **Android勉強会のメンバーが作成したサンプルコードです。**  
