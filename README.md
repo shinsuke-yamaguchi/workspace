@@ -10,14 +10,14 @@
 
 JOIN CHAT を利用する場合は、GitHubのアカウントが必要です。
 
-### ◆ 1人1アプリ開発のサンプルコードについて知りたい。
+## ◆ 1人1アプリ開発のサンプルコードについて知りたい。
 - SampleQuestionのソースコード  
 https://github.com/ncxx-sl-lab/SampleQuestion
 
 - SampleQuestionの改良版ソースコード  
 https://github.com/ncxx-sl-lab/SampleQuestion/tree/pre  
 
-### ◆ 開発の参考資料について知りたい。
+## ◆ 開発の参考資料について知りたい。
 
 **Androidの開発で役に立つ記事はQiitaにまとめてストックしてあります（随時更新）。**
 - Qiitaのストック  
@@ -46,7 +46,7 @@ http://developer.android.com/develop/index.html
 - ソフトウェア技術ドキュメントを勝手に翻訳  
 https://sites.google.com/a/techdoctranslator.com/jp/android
 
-### ◆ Androidアプリのサンプルコードについて知りたい。
+## ◆ Androidアプリのサンプルコードについて知りたい。
 **Android勉強会のメンバーが作成したサンプルコードです。**  
 作成次第、随時更新していきます。
 - 01_HelloWorld  
@@ -59,7 +59,7 @@ https://github.com/miyake-yasunaga/03_Image
 https://github.com/miyake-yasunaga/04_Image
 
 
-### ◆ Git, GitHubの使い方について知りたい。
+## ◆ Git, GitHubの使い方について知りたい。
 **Git, GitHubの使い方について簡単にまとめました。** 
 
 - Gitのインストールや、GitHubの使い方は下記のリポジトリのwikiを参照してください。  
@@ -73,7 +73,7 @@ https://github.com/ncxx-sl-lab/github-cheat-sheet/blob/master/README.ja.md
 http://temakishiki.com/?p=237
 
 
-### ◆ ncxx-sl-labのメンバーに入りたい。
+## ◆ ncxx-sl-labのメンバーに入りたい。
 **まずはncxx-sl-labが作成された経緯について下記のスライドをご覧ください。**  
 ざっと見るだけで構いません。
 - 「GitHubでチーム開発の実践！！」  
