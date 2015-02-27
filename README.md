@@ -34,7 +34,7 @@ http://goo.gl/EaXahY
 - Androidアプリ開発逆引きレシピ  
 http://goo.gl/xqT2HE  
 
-　**mixiが行っているAndroid アプリ開発の基礎知識と実務スキルを身に付けるトレーニングコースです。**
+　**mixiが行うAndroid アプリ開発の基礎知識と実務スキルを身に付けるトレーニングコースです。**
 - Android Development Training Course Repository  
 https://github.com/mixi-inc/AndroidTraining
 
